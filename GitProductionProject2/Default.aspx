@@ -17,5 +17,7 @@
 
         Bug fixed...!
 
+        New 1
+
     </p>
 </asp:Content>
